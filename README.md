@@ -1,2 +1,3 @@
-# IA_BIGDATA
-Repositorio para el curso de IA y BIDATA
+# IA_BIGDATA. 
+Autor: Anselmo Pérez
+Descripción: Repositorio para el curso de IA y BIGDATA
